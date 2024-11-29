@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Y朱应卿个人网站" # 标题
+title                    : "Zhu yingqing's website" # 标题
 title_separator          : "-"
-name                     : &name "朱应卿"
-description              : &description "随处可见的中国普通大学生"
+name                     : &name "zhu yingqing"
+description              : &description "Ordinary Chinese college students can be seen everywhere"
 url                      : https://longyingfeng2001.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://longyingfeng2001.github.io/"
@@ -22,11 +22,12 @@ repository               : "https://longyingfeng2001.github.io/"
 author:
   # Biographic information
   avatar           : "微信图片_20241009134011.jpg"
-  name             : "朱应卿"
+  name             : "zhu yingqing"
   pronouns         : # example: "she/her"  
-  bio              : "中国普通大学生"
-  location         : "澳门"
-  employer         : "澳科大"
+  bio              : "Ordinary Chinese college students"
+  bio              : ""
+  location         : "macau"
+  employer         : "must"
   uri              : # URL
   email            : "2403132835@qq.com" 
 
