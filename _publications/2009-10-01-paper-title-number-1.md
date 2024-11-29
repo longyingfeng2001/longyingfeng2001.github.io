@@ -1,9 +1,9 @@
 ---
-title: "团体作业"
+title: "team work"
 collection: publications
 category: manuscripts
 permalink: https://book.yunzhan365.com/rxjfh/zeld/mobile/index.html
-excerpt: '市场营销课程的团体作业.'
+excerpt: 'timework.'
 date: 2024-11-30
 venue: 'Journal 1'
 slidesurl: 'https://book.yunzhan365.com/rxjfh/zeld/mobile/index.html'
